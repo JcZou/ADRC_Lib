@@ -1,1 +1,2 @@
-# ADRC_Lib
+Active Disturbance Control (ADRC) Library
+=======================================
